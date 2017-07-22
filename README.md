@@ -4,7 +4,7 @@ Firebase cloud messaging with next js demo
 ##How to get started
 
 1. Create a firebase project
-2. Edit the following files (server.js) which is at the root, the (Index.js) at the pages directory, the (server.js) which is at the credentials folder
+2. Edit the following files with configuration keys that are specific to your firebase project (server.js) which is at the root, the (Index.js) at the pages directory, the (server.js) which is at the credentials folder
 the (firebase-messaging-sw.js) which is at the static folder
 
 3. Start the dev server.
